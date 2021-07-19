@@ -1,0 +1,8 @@
+choucairtesting/com/retochoucairtesting/userinterfaces/Empleos.java
+ choucairtesting.com.retochoucairtesting.userinterfaces.Empleos
+choucairtesting/com/retochoucairtesting/userinterfaces/Home.java
+ choucairtesting.com.retochoucairtesting.userinterfaces.Home
+choucairtesting/com/retochoucairtesting/userinterfaces/PortalEmpleos.java
+ choucairtesting.com.retochoucairtesting.userinterfaces.PortalEmpleos
+choucairtesting/com/retochoucairtesting/task/AccesHomeTask.java
+ choucairtesting.com.retochoucairtesting.task.AccesHomeTask

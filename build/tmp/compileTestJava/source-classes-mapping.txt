@@ -1,0 +1,4 @@
+choucairtesting/com/test/stepdefinitions/AccesHomeStepdefinitions.java
+ choucairtesting.com.test.stepdefinitions.AccesHomeStepdefinitions
+choucairtesting/com/test/runners/AccesHome.java
+ choucairtesting.com.test.runners.AccesHome
